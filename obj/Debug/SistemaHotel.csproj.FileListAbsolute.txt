@@ -1,0 +1,524 @@
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\Users\hugov\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\MySql.Data.dll
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\Google.Protobuf.dll
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Back End C#\SistemaHotel\SistemaHotel\bin\Debug\MySql.Data.xml
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CopyComplete
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmUsuarios.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFornecedores.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmEstoque.resources
+C:\Back End C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmServicos.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe.config
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFornecedores.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmServicos.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmUsuarios.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmEstoque.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelProdutos.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.cache
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.compiled
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\stdole.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE80.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj80.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.MSXML.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Framework.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj2.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CopyComplete
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\bin\Debug\MySql.Data.dll
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmVendas.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovante.resources
+C:\Report Viewer Curso\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelVendas.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\MySql.Data.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\stdole.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE80.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj80.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.MSXML.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Framework.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj2.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe.config
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFornecedores.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmServicos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmUsuarios.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmVendas.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmMovimentacoes.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmEstoque.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovante.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelProdutos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelVendas.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.cache
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.compiled
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CopyComplete
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmGastos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmHospedes.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmQuartos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmNovoServics.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovanteServico.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelServicos.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelMovimentacoes.resources
+C:\Controle Financeiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmMovimentacoesGerais.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\MySql.Data.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\stdole.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE80.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj80.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.MSXML.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.Build.Framework.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\VSLangProj2.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe.config
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFornecedores.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmHospedes.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmQuartos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmServicos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmUsuarios.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmVendas.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmGastos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmMovimentacoes.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmNovoServics.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmEstoque.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmMovimentacoesGerais.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovante.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovanteServico.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelMovimentacoes.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelProdutos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelServicos.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelVendas.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmReservas.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.cache
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\RdlCompile.compiled
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CopyComplete
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmConsultarReservas.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmCheckIn.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmCheckOut.resources
+C:\Controle Hoteleiro C#\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelDetReservas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\EnvDTE.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\stdole.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\Microsoft.MSXML.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.AssemblyReference.cache
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmCargo.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFornecedores.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmFuncionarios.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmHospedes.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmQuartos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmServicos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Cadastros.FrmUsuarios.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmMenu.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmVendas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmGastos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmMovimentacoes.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Movimentacoes.FrmNovoServics.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmEstoque.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Produtos.FrmProdutos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmMovimentacoesGerais.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovante.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelComprovanteServico.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelDetReservas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelMovimentacoes.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelProdutos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelServicos.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Relatorios.FrmRelVendas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmCheckIn.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmCheckOut.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmConsultarReservas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Reservas.FrmReservas.resources
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaH.BDE743F0.Up2Date
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\SistemaPousada\Sistema Finalizado\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
