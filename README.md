@@ -7,11 +7,11 @@ O sistema é um software desktop desenvolvido em C# e MySQL, e abrange uma ampla
 
 <!-- Inserir imagem no README -->
 <p align="center">
-  <img src="img/pousada1.png" alt="Texto Alternativo" width="800">
+  <img src="img/pusada1.png" alt="Texto Alternativo" width="800">
 </p>
 <!-- Inserir imagem no README -->
 <p align="center">
-  <img src="img/pousada2.png" alt="Texto Alternativo" width="800">
+  <img src="img/posada2.png" alt="Texto Alternativo" width="800">
 </p>
 
 ## Funcionalidades
