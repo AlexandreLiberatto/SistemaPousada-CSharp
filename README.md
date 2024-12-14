@@ -4,6 +4,16 @@ Este é um sistema de gestão de reservas desenvolvido para uma pousada em Tubar
 
 O sistema é um software desktop desenvolvido em C# e MySQL, e abrange uma ampla gama de funcionalidades, como cadastros, movimentações, reservas e relatórios. Ele é ideal para gerenciar reservas, estoque de produtos, entrada e saída de hóspedes e outras atividades da pousada.
 
+
+<!-- Inserir imagem no README -->
+<p align="center">
+  <img src="img/pousada1.png" alt="Texto Alternativo" width="800">
+</p>
+<!-- Inserir imagem no README -->
+<p align="center">
+  <img src="img/pousada2.png" alt="Texto Alternativo" width="800">
+</p>
+
 ## Funcionalidades
 
 ### Sessão de Cadastros
